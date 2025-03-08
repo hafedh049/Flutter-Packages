@@ -97,9 +97,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-- Website: [flutterpackages.dev](https://flutterpackages.dev)
-- Email: info@flutterpackages.dev
-- Twitter: [@FlutterPackages](https://twitter.com/FlutterPackages)
+- Website: [flutterpackages.dev](https://hafedhguenichi.vercel.app)
+- Email: hafedhgunichi@gmail.com
 
 ## 🙏 Acknowledgments
 
